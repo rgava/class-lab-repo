@@ -1,2 +1,13 @@
-This is a sample text file for practicing Git commands.
-Learners can experiment with adding, modifying, or deleting this file as needed.
+crimson
+organge
+blue
+cyan
+yellow
+charcoal
+khaki
+coral
+silver
+fuchsia
+purple
+brown
+red
